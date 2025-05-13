@@ -449,7 +449,7 @@ with vis_cols_main[1]:
         plot_probabilities_streamlit(ax_pr_vis, probs_vis, n_q_prob_vis)
         st.pyplot(fig_pr_vis, clear_figure=True)
 
-    st.subheader(f"State Vector $|\psi\rangle$ ({n_q_prob_vis}-Qubit)")
+    st.subheader(f"State Vector ({n_q_prob_vis}-Qubit)")
     if psi_prob_vis is not None:
         state_vector_terms_disp = []
         actual_n_qubits_for_psi = 0
