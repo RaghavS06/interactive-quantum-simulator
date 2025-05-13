@@ -35,7 +35,7 @@ This is an interactive Streamlit application designed for hands-on learning of f
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd <interactive-quantum-simulator>
+    cd interactive-quantum-simulator
     ```
 
 3.  **Create and activate a virtual environment (recommended):**
