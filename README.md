@@ -21,10 +21,11 @@ This is an interactive Streamlit application designed for hands-on learning of f
 * **State Display:** View the complex state vector of the quantum system.
 * **Error Handling:** Basic error checks for invalid operations.
 
-## Prerequisites
+# Prerequisites (IMPORTANT ‼️)
 
-* Python 3.7+
-* Git (for cloning the repository)
+* Proper installation of: **Python 3.13+**
+* **Git** (for cloning the repository)
+* Proper installation of: **pip 25.0+**
 
 ## Setup and Installation
 
