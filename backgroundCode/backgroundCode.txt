@@ -1,0 +1,1 @@
+These are all the more basic concepts of Quantum Mechanics I used to build an understanding and develop the final app's code.
