@@ -30,7 +30,7 @@ This is an interactive Streamlit application designed for hands-on learning of f
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)<RaghavS06>/<interactive-quantum-simulator>.git 
+    git clone https://github.com/RaghavS06/interactive-quantum-simulator.git
     ```
 
 2.  **Navigate to the project directory:**
