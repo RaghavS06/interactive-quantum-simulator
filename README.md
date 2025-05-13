@@ -56,7 +56,7 @@ This is an interactive Streamlit application designed for hands-on learning of f
 4.  **Install dependencies:**
     Make sure you have a `requirements.txt` file in your project directory with the following content:
     ```txt
-    streamlit
+    streamlit==1.45.1
     numpy
     matplotlib
     ```
